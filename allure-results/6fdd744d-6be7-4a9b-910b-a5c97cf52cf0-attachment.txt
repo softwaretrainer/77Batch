@@ -1,0 +1,3 @@
+Application is opened successfully
+Login is done successfully
+Logout is done successfully
