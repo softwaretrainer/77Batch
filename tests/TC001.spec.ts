@@ -7,4 +7,5 @@ test("@Smoke_TC001-Login to HRMS Application", async ({ page }) => {
     await obj.openApplication();
     await obj.login();
     await obj.logout();
+    console.log("Execution Completed")
 });
